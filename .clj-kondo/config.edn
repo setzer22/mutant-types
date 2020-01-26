@@ -1,0 +1,1 @@
+{:lint-as {mutant.core/defmutable clojure.core/deftype}}
